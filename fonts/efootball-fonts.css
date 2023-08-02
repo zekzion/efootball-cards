@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'eFootball Sans';
+    src: url('eFootballSans-Regular.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'eFootball Stencil';
+    src: url('eFootballStencil-Regular.woff') format('woff'),
+}
